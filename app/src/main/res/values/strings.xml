@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">30 Days of Veg</string>
+    <string name="ingredients_title">Ingredients</string>
+    <string name="instructions_title">Instructions</string>
+    <!-- Recipe 1: Vegetable Stir-Fry -->
+    <string name="recipe_1_name">Vegetable Stir-Fry</string>
+    <string name="recipe_1_ingredient">Broccoli, bell peppers, carrots, snap peas, garlic, soy sauce, olive oil, sesame seeds.</string>
+    <string name="recipe_1_instruction">Sauté vegetables in olive oil, add garlic, and stir in soy sauce. Garnish with sesame seeds.</string>
+
+    <!-- Recipe 2: Chickpea Salad -->
+    <string name="recipe_2_name">Chickpea Salad</string>
+    <string name="recipe_2_ingredient">Chickpeas, cucumber, tomatoes, red onion, parsley, lemon juice, olive oil, salt, pepper.</string>
+    <string name="recipe_2_instruction">Mix all ingredients in a bowl and serve chilled.</string>
+
+    <!-- Recipe 3: Paneer Tikka -->
+    <string name="recipe_3_name">Paneer Tikka</string>
+    <string name="recipe_3_ingredient">Paneer, yogurt, ginger-garlic paste, turmeric, cumin, coriander powder, garam masala, lemon juice.</string>
+    <string name="recipe_3_instruction">Marinate paneer with spices and yogurt. Skewer and grill until golden.</string>
+
+    <!-- Recipe 4: Spinach and Mushroom Pasta -->
+    <string name="recipe_4_name">Spinach and Mushroom Pasta</string>
+    <string name="recipe_4_ingredient">Pasta, spinach, mushrooms, garlic, cream, Parmesan cheese, olive oil, salt, pepper.</string>
+    <string name="recipe_4_instruction">Sauté garlic and mushrooms, add spinach and cream. Toss with pasta and serve with Parmesan.</string>
+
+    <!-- Recipe 5: Stuffed Bell Peppers -->
+    <string name="recipe_5_name">Stuffed Bell Peppers</string>
+    <string name="recipe_5_ingredient">Bell peppers, quinoa, black beans, corn, tomatoes, cheese, cumin, chili powder.</string>
+    <string name="recipe_5_instruction">Stuff bell peppers with the quinoa mixture and bake until tender. Top with cheese.</string>
+
+    <!-- Recipe 6: Aloo Gobi (Potato and Cauliflower Curry) -->
+    <string name="recipe_6_name">Aloo Gobi (Potato and Cauliflower Curry)</string>
+    <string name="recipe_6_ingredient">Potatoes, cauliflower, tomatoes, onions, ginger, garlic, turmeric, cumin, coriander powder.</string>
+    <string name="recipe_6_instruction">Sauté onions, ginger, garlic, and spices. Add potatoes and cauliflower, cook until tender.</string>
+
+    <!-- Recipe 7: Matar Paneer (Peas and Cottage Cheese Curry) -->
+    <string name="recipe_7_name">Matar Paneer (Peas and Cottage Cheese Curry)</string>
+    <string name="recipe_7_ingredient">Paneer, green peas, tomatoes, onions, ginger, garlic, cumin, coriander, turmeric.</string>
+    <string name="recipe_7_instruction">Sauté onions, garlic, ginger, add spices, tomatoes, peas, and paneer. Simmer until cooked.</string>
+
+    <!-- Recipe 8: Vegetable Biryani -->
+    <string name="recipe_8_name">Vegetable Biryani</string>
+    <string name="recipe_8_ingredient">Basmati rice, carrots, peas, green beans, tomatoes, onions, biryani masala, yogurt, saffron.</string>
+    <string name="recipe_8_instruction">Cook rice with vegetables and spices, layer with saffron yogurt, and bake or cook on low heat.</string>
+
+    <!-- Recipe 9: Mixed Vegetable Pakoras -->
+    <string name="recipe_9_name">Mixed Vegetable Pakoras</string>
+    <string name="recipe_9_ingredient">Besan (gram flour), potatoes, spinach, onions, coriander, cumin, salt, water, oil.</string>
+    <string name="recipe_9_instruction">Mix vegetables in gram flour batter, deep fry until golden.</string>
+
+    <!-- Recipe 10: Palak Paneer (Spinach and Cottage Cheese Curry) -->
+    <string name="recipe_10_name">Palak Paneer (Spinach and Cottage Cheese Curry)</string>
+    <string name="recipe_10_ingredient">Spinach, paneer, onions, tomatoes, garlic, ginger, cumin, garam masala, cream.</string>
+    <string name="recipe_10_instruction">Blanch spinach, sauté spices, and paneer, blend spinach, and cook until flavors combine.</string>
+
+    <!-- Recipe 11: Vegetable Pulao -->
+    <string name="recipe_11_name">Vegetable Pulao</string>
+    <string name="recipe_11_ingredient">Basmati rice, mixed vegetables (peas, carrots, beans), cumin, cloves, cinnamon, onions, garlic.</string>
+    <string name="recipe_11_instruction">Sauté spices and onions, add vegetables and rice, cook until rice is fluffy.</string>
+
+    <!-- Recipe 12: Falafel -->
+    <string name="recipe_12_name">Falafel</string>
+    <string name="recipe_12_ingredient">Chickpeas, onion, garlic, cumin, coriander, parsley, flour, baking powder, salt, oil.</string>
+    <string name="recipe_12_instruction">Blend ingredients into a dough, form balls, and fry until golden brown.</string>
+
+    <!-- Recipe 13: Vegetable Tacos -->
+    <string name="recipe_13_name">Vegetable Tacos</string>
+    <string name="recipe_13_ingredient">Corn tortillas, black beans, bell peppers, onions, avocado, salsa, cheese, lettuce.</string>
+    <string name="recipe_13_instruction">Sauté vegetables, warm tortillas, assemble tacos with veggies, beans, and toppings.</string>
+
+    <!-- Recipe 14: Lentil Soup -->
+    <string name="recipe_14_name">Lentil Soup</string>
+    <string name="recipe_14_ingredient">Red lentils, carrots, celery, onions, garlic, tomatoes, cumin, vegetable broth.</string>
+    <string name="recipe_14_instruction">Sauté onions and garlic, add vegetables and lentils, simmer until lentils are tender.</string>
+
+    <!-- Recipe 15: Paneer Butter Masala -->
+    <string name="recipe_15_name">Paneer Butter Masala</string>
+    <string name="recipe_15_ingredient">Paneer, butter, tomatoes, onions, cream, cashews, cumin, garam masala, chili powder.</string>
+    <string name="recipe_15_instruction">Sauté onions, tomatoes, and spices, blend, add paneer and simmer in the creamy sauce.</string>
+
+    <!-- Recipe 16: Vegetable Spring Rolls -->
+    <string name="recipe_16_name">Vegetable Spring Rolls</string>
+    <string name="recipe_16_ingredient">Cabbage, carrots, bell peppers, soy sauce, spring roll wrappers, oil.</string>
+    <string name="recipe_16_instruction">Stir-fry vegetables, fill wrappers, roll, and fry until crispy.</string>
+
+    <!-- Recipe 17: Stuffed Mushrooms -->
+    <string name="recipe_17_name">Stuffed Mushrooms</string>
+    <string name="recipe_17_ingredient">Mushrooms, breadcrumbs, Parmesan cheese, garlic, parsley, olive oil.</string>
+    <string name="recipe_17_instruction">Stuff mushrooms with seasoned breadcrumbs, bake until golden.</string>
+
+    <!-- Recipe 18: Zucchini Fritters -->
+    <string name="recipe_18_name">Zucchini Fritters</string>
+    <string name="recipe_18_ingredient">Zucchini, flour, egg, Parmesan cheese, garlic powder, salt, pepper, olive oil.</string>
+    <string name="recipe_18_instruction">Mix ingredients, form fritters, and pan-fry until golden and crispy.</string>
+
+    <!-- Recipe 19: Vegetarian Sushi Rolls -->
+    <string name="recipe_19_name">Vegetarian Sushi Rolls</string>
+    <string name="recipe_19_ingredient">Sushi rice, nori sheets, avocado, cucumber, carrots, soy sauce.</string>
+    <string name="recipe_19_instruction">Prepare sushi rice, layer with veggies, roll tightly, and cut into slices.</string>
+
+    <!-- Recipe 20: Veggie Burger -->
+    <string name="recipe_20_name">Veggie Burger</string>
+    <string name="recipe_20_ingredient">Black beans, quinoa, onions, garlic, breadcrumbs, egg, spices, burger buns.</string>
+    <string name="recipe_20_instruction">Mash beans with spices, form patties, grill, and serve in buns with toppings.</string>
+
+    <!-- Recipe 21: Vegetable Frittata -->
+    <string name="recipe_21_name">Vegetable Frittata</string>
+    <string name="recipe_21_ingredient">Eggs, spinach, tomatoes, onions, bell peppers, cheese, salt, pepper.</string>
+    <string name="recipe_21_instruction">Sauté vegetables, pour in beaten eggs, and bake until set.</string>
+
+    <!-- Recipe 22: Gnocchi with Tomato Sauce -->
+    <string name="recipe_22_name">Gnocchi with Tomato Sauce</string>
+    <string name="recipe_22_ingredient">Gnocchi, tomatoes, garlic, olive oil, basil, Parmesan cheese.</string>
+    <string name="recipe_22_instruction">Cook gnocchi, prepare tomato sauce, and combine before serving with cheese.</string>
+
+    <!-- Recipe 23: Chana Masala (Chickpea Curry) -->
+    <string name="recipe_23_name">Chana Masala (Chickpea Curry)</string>
+    <string name="recipe_23_ingredient">Chickpeas, tomatoes, onions, ginger, garlic, cumin, coriander, garam masala.</string>
+    <string name="recipe_23_instruction">Sauté onions and spices, add chickpeas, and simmer in a tomato-based sauce.</string>
+
+    <!-- Recipe 24: Vegetable Kebabs -->
+    <string name="recipe_24_name">Vegetable Kebabs</string>
+    <string name="recipe_24_ingredient">Bell peppers, zucchini, mushrooms, onions, cherry tomatoes, olive oil, spices.</string>
+    <string name="recipe_24_instruction">Marinate vegetables, skewer, and grill until tender.</string>
+
+    <!-- Recipe 25: Tofu Stir-Fry -->
+    <string name="recipe_25_name">Tofu Stir-Fry</string>
+    <string name="recipe_25_ingredient">Tofu, broccoli, bell peppers, soy sauce, garlic, ginger, sesame oil.</string>
+    <string name="recipe_25_instruction">Stir-fry tofu and vegetables with garlic, ginger, and soy sauce.</string>
+
+    <!-- Recipe 26: Stuffed Zucchini Boats -->
+    <string name="recipe_26_name">Stuffed Zucchini Boats</string>
+    <string name="recipe_26_ingredient">Zucchini, quinoa, tomatoes, cheese, garlic, olive oil.</string>
+    <string name="recipe_26_instruction">Hollow out zucchini, fill with quinoa mixture, and bake until tender.</string>
+
+    <!-- Recipe 27: Vegetable Samosas -->
+    <string name="recipe_27_name">Vegetable Samosas</string>
+    <string name="recipe_27_ingredient">Potatoes, peas, cumin, coriander, turmeric, flour, water, oil.</string>
+    <string name="recipe_27_instruction">Prepare a dough, stuff with spiced potatoes and peas, and deep fry.</string>
+
+    <!-- Recipe 28: Minestrone Soup -->
+    <string name="recipe_28_name">Minestrone Soup</string>
+    <string name="recipe_28_ingredient">Tomatoes, pasta, beans, zucchini, carrots, celery, onions, garlic, vegetable broth.</string>
+    <string name="recipe_28_instruction">Sauté onions, add vegetables, broth, and pasta, simmer until cooked.</string>
+
+    <!-- Recipe 29: Bruschetta with Tomato and Basil -->
+    <string name="recipe_29_name">Bruschetta with Tomato and Basil</string>
+    <string name="recipe_29_ingredient">Baguette, tomatoes, garlic, basil, olive oil, salt, pepper.</string>
+    <string name="recipe_29_instruction">Toast bread, top with seasoned tomato mixture.</string>
+
+    <!-- Recipe 30: Sweet Potato Curry -->
+    <string name="recipe_30_name">Sweet Potato Curry</string>
+    <string name="recipe_30_ingredient">Sweet potatoes, coconut milk, tomatoes, onions, garlic, ginger, curry powder.</string>
+    <string name="recipe_30_instruction">Sauté onions, garlic, and spices, add sweet potatoes and coconut milk, simmer until tender.</string>
+</resources>
