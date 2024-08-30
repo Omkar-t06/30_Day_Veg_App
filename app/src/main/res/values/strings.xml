@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">30 Days of Veg</string>
-    <string name="ingredients_title">Ingredients</string>
-    <string name="instructions_title">Instructions</string>
+    <string name="ingredients_title">Ingredients:</string>
+    <string name="instructions_title">Instructions:</string>
+    <string name="show_recipe_button">Show Recipe</string>
+    <string name="hide_recipe_button">Hide Recipe</string>
+    <string name="day_no">Day %d</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
     <!-- Recipe 1: Vegetable Stir-Fry -->
     <string name="recipe_1_name">Vegetable Stir-Fry</string>
     <string name="recipe_1_ingredient">Broccoli, bell peppers, carrots, snap peas, garlic, soy sauce, olive oil, sesame seeds.</string>
